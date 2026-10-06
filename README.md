@@ -11,3 +11,4 @@ Guia web de consulta rápida de counters do Dota 2.
 O projeto é uma página estática e não precisa de build, Node.js ou banco de dados.
 
 O ícone utilizado é o ícone Dota 2 disponibilizado pelo TheSVG sob CC0; a marca Dota 2 pertence à Valve.
+Versão conectada ao Vercel.
